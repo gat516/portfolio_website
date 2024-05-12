@@ -21,8 +21,6 @@ const Main = () => {
                             1000, // wait 1s before replacing "Mice" with "Hamsters"
                             'Finance',
                             1000,
-                            'Artificial Intelligence',
-                            1000,
                         ]}
                         wrapper="span"
                         speed={50}

@@ -24,18 +24,11 @@ const data = [
         'Upon becoming a student at the University of Houston in 2023, I joined the CougarCS - Information Security Branch to connect with others interested in cybersecurity and technology.'
     },
     {
-        year: 'Spring 2024',
-        title: 'Finance',
-        duration: 'Present',
-        details:
-        'In 2024, at the encouragement of friends and mentors, I decided to double major in Finance to complement my technical skills with business acumen.'
-    },
-    {
         year: 'Current',
         title: 'Work',
         duration: 'Present',
         details:
-        'Outside of school, I am also working on labs and projects to gain simulated but hands-on experience in cybersecurity while chasing after the CCNA. '
+        'Outside of school, I am also working on labs and projects to gain simulated but hands-on experience in application security and SOC analyst fundamentals. '
     }
 ]
 const Work = () => {
