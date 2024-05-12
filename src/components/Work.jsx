@@ -28,7 +28,7 @@ const data = [
         title: 'Work',
         duration: 'Present',
         details:
-        'Outside of school, I am also working on labs and projects to gain simulated but hands-on experience in application security and SOC analyst fundamentals. '
+        'Outside of school, I am also working on labs and projects to gain hands-on experience in application security or SOC analyst roles.'
     }
 ]
 const Work = () => {

@@ -13,13 +13,13 @@ const Main = () => {
             <div className='max-w-[700px] m-auto h-full w-full flex flex-col justify-center lg:items-start items-center'>
                 <h1 className='sm:text-5xl text-4xl font-bold text-gray-800'>I'm Charles Gatchalian</h1>
                 <h2 className='flex sm:text-3xl text-2xl pt-4text-gray-800'>
-                    I'm into
+                    I'm passionate about
                     <TypeAnimation
                         sequence={[
                             // Same substring at the start will only be typed out once, initially
-                            'Cybersecurity',
+                            'cybersecurity',
                             1000, // wait 1s before replacing "Mice" with "Hamsters"
-                            'Finance',
+                            'programming',
                             1000,
                         ]}
                         wrapper="span"
